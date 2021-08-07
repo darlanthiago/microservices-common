@@ -1,0 +1,19 @@
+{
+    "name": "darlanthiago/microservices-common",
+    "description": "Package Files Utils Microservices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Darlan Thiago",
+            "email": "tdarlan1@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DarlanThiago\\MicroservicesCommon\\": "src/"
+        }
+    }
+}
